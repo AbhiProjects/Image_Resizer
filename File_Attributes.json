@@ -1,0 +1,195 @@
+{
+  "AppIcon.appiconset" : [
+    {
+      "File_Name" : "Icon.png",
+      "Size" : "57x57",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-40.png",
+      "Size" : "40x40",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-40@2x.png",
+      "Size" : "80x80",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-40@3x.png",
+      "Size" : "120x120",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-60@2x.png",
+      "Size" : "120x120",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-Small.png",
+      "Size" : "29x29",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-60@3x.png",
+      "Size" : "180x180",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-72.png",
+      "Size" : "72x72",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-72@2x.png",
+      "Size" : "144x144",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-76.png",
+      "Size" : "76x76",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-76@2x.png",
+      "Size" : "152x152",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-512.png",
+      "Size" : "512x512",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-1024.png",
+      "Size" : "1024x1024",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon@2x.png",
+      "Size" : "114x114",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-Small.png",
+      "Size" : "29x29",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-Small-50.png",
+      "Size" : "50x50",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-Small-50@2x.png",
+      "Size" : "100x100",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-Small@2x.png",
+      "Size" : "58x58",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Icon-Small@3x.png",
+      "Size" : "87x87",
+      "Orientation" : "portrait"
+    }
+  ],
+  
+  "LaunchImage.launchimage" : [
+    {
+      "File_Name" : "Default.png",
+      "Size" : "320x480",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Default-568h@2x.png",
+      "Size" : "640x1136",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Default@2x.png",
+      "Size" : "640x960",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Default~ipad.png",
+      "Size" : "768x1004",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Default~ipad@2x.png",
+      "Size" : "1536x2008",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Default~ipad~landscape.png",
+      "Size" : "1024x748",
+      "Orientation" : "landscape"
+    },
+    {
+      "File_Name" : "Default~ipad~landscape@2x.png",
+      "Size" : "2048x1496",
+      "Orientation" : "landscape"
+    },
+    {
+      "File_Name" : "Default~ipad~landscape~nostatusbar.png",
+      "Size" : "1024x768",
+      "Orientation" : "landscape"
+    },
+    {
+      "File_Name" : "Default~ipad~landscape~nostatusbar@2x.png",
+      "Size" : "2048x1536",
+      "Orientation" : "landscape"
+    },
+    {
+      "File_Name" : "Default~ipad~nostatusbar.png",
+      "Size" : "768x1024",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "Default~ipad~nostatusbar@2x.png",
+      "Size" : "1536x2048",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "iPhone6-Plus-landscape@3x.png",
+      "Size" : "2208x1242",
+      "Orientation" : "landscape"
+    },
+    {
+      "File_Name" : "iPhone6-Plus-landscape@3x-Recovered.png",
+      "Size" : "2208x1242",
+      "Orientation" : "landscape"
+    },
+    {
+      "File_Name" : "iPhone6-Plus-portrait@3x.png",
+      "Size" : "1242x2208",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "iPhone6-portrait@2x.png",
+      "Size" : "750x1334",
+      "Orientation" : "portrait"
+    }
+  ],
+  
+  "imageset" : [
+    {
+      "File_Name" : ".png",
+      "Size" : "100x140",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "@2x.png",
+      "Size" : "200x280",
+      "Orientation" : "portrait"
+    },
+    {
+      "File_Name" : "@3x.png",
+      "Size" : "75x110",
+      "Orientation" : "portrait"
+    }
+  ]
+}
